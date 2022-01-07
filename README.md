@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey there!
 
-I a junior undergraduate at [IIT Bombay](https://www.iitb.ac.in/) pursuing [Mechanical Engineering](https://www.me.iitb.ac.in/) and a Minor degree in the [Department of Systems and Control Engineering](https://www.sc.iitb.ac.in/).  
+I am a junior undergraduate at [IIT Bombay](https://www.iitb.ac.in/) pursuing [Mechanical Engineering](https://www.me.iitb.ac.in/) and a Minor degree in the [Department of Systems and Control Engineering](https://www.sc.iitb.ac.in/).  
 
 Here's how to reach me:  
 
