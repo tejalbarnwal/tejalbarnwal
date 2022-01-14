@@ -35,6 +35,6 @@ Here's how to reach me:
 <br/>
 
 <p width="50%" align="left"> <!--style="max-width:500px;"-->
-  <img src = "https://github-readme-stats.vercel.app/api?username=tejalbarnwal&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tejalbarnwal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trunc8&hide=jupyter notebook,html&theme=tokyonight"> -->
 </p>
