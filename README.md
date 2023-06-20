@@ -34,10 +34,10 @@ Here's how to reach me:
 <br/>
 <br/>
 
-<!--<p width="50%" align="left"> -->
+<p width="50%" align="left">
   <!--style="max-width:500px;"-->
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=tejalbarnwal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&line_height=27"> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=tejalbarnwal&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=trunc8&hide=jupyter notebook,html&theme=tokyonight"> -->
-<!-- </p> -->
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejalbarnwal&label=Profile%20views&color=129e00&style=plastic"/> </p>
